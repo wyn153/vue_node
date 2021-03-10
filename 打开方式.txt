@@ -1,0 +1,2 @@
+myvue  页面 是vue脚手架安装  npm run serve  打开
+node_api   是后端node     nodemon index.js  打开
